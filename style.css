@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.sec1{
+    width: 2200px;
+    height: 60px;
+    background-color: black;
+    
+}
+.nav0{
+    padding-top: 20px;
+    display: inline;
+    padding-left: 20px;
+    
+}
+
+.nav1
+{
+    display: inline;
+    padding-top:-40px;
+    margin-left: 1000px;
+}
+a{
+    padding-left: 11px;
+}
+.div1{
+    height: 420px;
+}
+.h11{
+    font-size: 50px;
+    margin-top: 200px;
+}
+.div2{
+      height: 620px;
+    background-color: black;
+}
+.img1{
+    border-radius: 50%;
+    margin-top: 100px;
+    margin-left: 80px;
+    
+}
+.h12{
+    margin-right: 200px;
+    margin-top: -330px;
+}
+.h13{
+    margin-top: 10px;
+    margin-left: 480px;
+    text-align: justify;
+    margin-right: 80px;
+}
+.div3{
+    height: 620px;
+    
+}
+.d0{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 200px;
+    padding-right: 200px;
+    
+}
+.d1,.d2,.d3{
+    height: 300px;
+    width: 250px;
+    background-color: black;
+    border-radius: 10px;
+}
+.logo1{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: orangered;
+    margin-top: 30px;
+}
+.logo2{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: orangered;
+    margin-top: 30px;
+}
+.logo3{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: orangered;
+    margin-top: 30px;
+}
+.div4{
+    height: 620px;
+    background-color: black;
+    color:white;
+}
+.dd5{
+    padding-top: 60px;
+     padding-left: 620px;
+}
+.ress{
+    height: 30px;
+    width: 200px;
+    background-color: green;
+    margin-left: -180px;
+    margin-top: 20px;
+    
+}
+.resumee{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+.dd6{
+    display: flex;
+    justify-content: space-evenly;
+    padding: auto;
+    padding-top:-20px;
+}
+.d5{
+     margin-top: 60px;
+}
+progress{
+    height: 7px;
+    width: 280px;
+    margin-left: 5px;
+    border-color: blueviolet;
+}
+.d6{
+   
+    margin-top: 60px;
+}
+.div5{
+    margin-top: 30px;
+}
+
